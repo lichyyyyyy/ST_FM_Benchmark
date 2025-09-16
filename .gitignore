@@ -2,4 +2,5 @@
 .idea/
 .venv/
 __pycache__/
-approaches_impl/
+evaluation_results/data
+evaluation/SDMBench
